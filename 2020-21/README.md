@@ -5,3 +5,4 @@
 * [`2020-11-05.md`](2020-11-05.md) - projekti in git
 * [`2020-11-12.md`](2020-11-12.md) - branje iz spletnih strani
 * [`2020-11-19.md`](2020-11-19.md) - risanje
+* [`2020-12-10.md`](2020-12-10.md) - zemljevidi
